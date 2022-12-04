@@ -18,6 +18,15 @@
 # [dragonhuman if it was made in 2020](https://github.com/woot-1/skins/raw/main/dragonhuman%20if%20it%20was%20made%20in%202020.osk)
 [![](https://meaved.s-ul.eu/rAEg9DXo)](https://github.com/woot-1/skins/raw/main/dragonhuman%20if%20it%20was%20made%20in%202020.osk)
 
+# [elohere but EZ](https://meaved.s-ul.eu/Oo3qCFSN)
+[![](https://meaved.s-ul.eu/17sw05do)](https://meaved.s-ul.eu/Oo3qCFSN)
+
+# [elohere w emilia hits](https://meaved.s-ul.eu/WcwLvynX)
+[![](https://meaved.s-ul.eu/PXYvk8kK)](https://meaved.s-ul.eu/WcwLvynX)
+
+# [elysion edited circles + trail](https://meaved.s-ul.eu/FfJ8gEXp)
+[![](https://meaved.s-ul.eu/016eJJ7Q)](https://meaved.s-ul.eu/FfJ8gEXp)
+
 # [emilia 2016 but my version](https://github.com/woot-1/skins/raw/main/emilia%202016%20but%20my%20version.osk)
 [![](https://meaved.s-ul.eu/UVPISNMj)](https://github.com/woot-1/skins/raw/main/dragonhuman%20if%20it%20was%20made%20in%202020.osk)
 
