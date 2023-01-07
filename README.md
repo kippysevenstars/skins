@@ -41,3 +41,6 @@
 
 # [nara if it was made in 2020](https://github.com/woot-1/skins/raw/main/nara%20if%20it%20was%20made%20in%202020.osk)
 [![](https://meaved.s-ul.eu/OATvXsZ7)](https://github.com/woot-1/skins/raw/main/nara%20if%20it%20was%20made%20in%202020.osk)
+
+# [suurii nakamura](https://github.com/woot-1/skins/blob/main/suurii%20nakamura.osk)
+[![](https://i.gyazo.com/b1060e82f3ab08330f93a16222093ac2.png)](https://github.com/woot-1/skins/blob/main/suurii%20nakamura.osk)
