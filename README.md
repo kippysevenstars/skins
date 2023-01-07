@@ -1,4 +1,4 @@
-# skins
+set this up so i don't have to worry about linking anyone any skin
 
 # [aristia boop](https://github.com/woot-1/skins/raw/main/aristia%20boop.osk)
 [![](https://meaved.s-ul.eu/mMJjpICU)](https://github.com/woot-1/skins/raw/main/aristia%20boop.osk)
