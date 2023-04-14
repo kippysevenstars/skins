@@ -30,6 +30,9 @@ set this up so i don't have to worry about linking anyone any skin
 # [emilia 2016 but my version](https://github.com/woot-1/skins/raw/main/emilia%202016%20but%20my%20version.osk)
 [![](https://meaved.s-ul.eu/UVPISNMj)](https://github.com/woot-1/skins/raw/main/dragonhuman%20if%20it%20was%20made%20in%202020.osk)
 
+# [lifelines tsukinami skin](https://woot.s-ul.eu/IuXbqEwC)
+[![](https://i.gyazo.com/96cdd1948aa4f2dd93bb6e3b7b14a26d.png)](https://woot.s-ul.eu/IuXbqEwC)
+
 # [mahmood cd edit w emilia hits](https://github.com/woot-1/skins/raw/main/mahmood%20cd%20edit%20w%20emilia%20hits.osk)
 [![](https://meaved.s-ul.eu/ZHadzVYd)](https://github.com/woot-1/skins/raw/main/mahmood%20cd%20edit%20w%20emilia%20hits.osk)
 
