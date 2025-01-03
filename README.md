@@ -3,6 +3,9 @@ set this up so i don't have to worry about linking anyone any skin
 # [aristia boop](https://github.com/woot-1/skins/raw/main/aristia%20boop.osk)
 [![](https://meaved.s-ul.eu/mMJjpICU)](https://github.com/woot-1/skins/raw/main/aristia%20boop.osk)
 
+# [atlas skin boop cursor](https://woot.s-ul.eu/3lLmehla)
+[![](https://woot.s-ul.eu/gOCNqYSf)](https://woot.s-ul.eu/3lLmehla)
+
 # [bad girl](https://github.com/woot-1/skins/raw/main/bad%20girl.osk)
 [![](https://meaved.s-ul.eu/zD4rfp0C)](https://github.com/woot-1/skins/raw/main/bad%20girl.osk)
 
